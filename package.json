@@ -1,5 +1,5 @@
 {
-	"name": "frappe-charts",
+	"name": "bor-charts",
 	"version": "v1.6.3",
 	"type": "module",
 	"main": "dist/frappe-charts.esm.js",
